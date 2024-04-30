@@ -1,0 +1,1129 @@
+2024/04/29 18:49:00 [notice] 9144#7140: using the "select" event method
+2024/04/29 18:49:00 [notice] 9144#7140: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 9144#7140: start worker processes
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 15752
+2024/04/29 18:49:00 [notice] 15752#13320: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 15752#13320: create thread 2140
+2024/04/29 18:49:00 [notice] 15752#13320: create thread 11084
+2024/04/29 18:49:00 [notice] 15752#13320: create thread 10404
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 8088
+2024/04/29 18:49:00 [notice] 8088#9476: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 8088#9476: create thread 9128
+2024/04/29 18:49:00 [notice] 8088#9476: create thread 8884
+2024/04/29 18:49:00 [notice] 8088#9476: create thread 3032
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 8740
+2024/04/29 18:49:00 [notice] 8740#1616: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 8740#1616: create thread 7420
+2024/04/29 18:49:00 [notice] 8740#1616: create thread 15668
+2024/04/29 18:49:00 [notice] 8740#1616: create thread 15996
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 2020
+2024/04/29 18:49:00 [notice] 2020#4100: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 2020#4100: create thread 3000
+2024/04/29 18:49:00 [notice] 2020#4100: create thread 4040
+2024/04/29 18:49:00 [notice] 2020#4100: create thread 15664
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 7384
+2024/04/29 18:49:00 [notice] 7384#10256: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 7384#10256: create thread 16692
+2024/04/29 18:49:00 [notice] 7384#10256: create thread 1492
+2024/04/29 18:49:00 [notice] 7384#10256: create thread 9740
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 10868
+2024/04/29 18:49:00 [notice] 10868#9864: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 10868#9864: create thread 10264
+2024/04/29 18:49:00 [notice] 10868#9864: create thread 16088
+2024/04/29 18:49:00 [notice] 10868#9864: create thread 16332
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 15980
+2024/04/29 18:49:00 [notice] 15980#16584: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 15980#16584: create thread 2624
+2024/04/29 18:49:00 [notice] 15980#16584: create thread 7820
+2024/04/29 18:49:00 [notice] 15980#16584: create thread 11624
+2024/04/29 18:49:00 [notice] 9144#7140: start worker process 9092
+2024/04/29 18:49:00 [notice] 9092#15648: nginx/1.25.4
+2024/04/29 18:49:00 [notice] 9092#15648: create thread 5600
+2024/04/29 18:49:00 [notice] 9092#15648: create thread 6808
+2024/04/29 18:49:00 [notice] 9092#15648: create thread 12908
+2024/04/29 18:50:28 [notice] 14456#4396: using the "select" event method
+2024/04/29 18:50:28 [notice] 14456#4396: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 14456#4396: start worker processes
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 12684
+2024/04/29 18:50:28 [notice] 12684#17000: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 12684#17000: create thread 12272
+2024/04/29 18:50:28 [notice] 12684#17000: create thread 16748
+2024/04/29 18:50:28 [notice] 12684#17000: create thread 13088
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 6052
+2024/04/29 18:50:28 [notice] 6052#17132: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 6052#17132: create thread 12992
+2024/04/29 18:50:28 [notice] 6052#17132: create thread 1832
+2024/04/29 18:50:28 [notice] 6052#17132: create thread 17048
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 15984
+2024/04/29 18:50:28 [notice] 15984#10760: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 15984#10760: create thread 9820
+2024/04/29 18:50:28 [notice] 15984#10760: create thread 3168
+2024/04/29 18:50:28 [notice] 15984#10760: create thread 17284
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 14432
+2024/04/29 18:50:28 [notice] 14432#16768: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 14432#16768: create thread 15544
+2024/04/29 18:50:28 [notice] 14432#16768: create thread 1504
+2024/04/29 18:50:28 [notice] 14432#16768: create thread 4424
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 8780
+2024/04/29 18:50:28 [notice] 8780#1792: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 8780#1792: create thread 11104
+2024/04/29 18:50:28 [notice] 8780#1792: create thread 17332
+2024/04/29 18:50:28 [notice] 8780#1792: create thread 9108
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 9792
+2024/04/29 18:50:28 [notice] 9792#15272: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 9792#15272: create thread 7460
+2024/04/29 18:50:28 [notice] 9792#15272: create thread 7964
+2024/04/29 18:50:28 [notice] 9792#15272: create thread 10476
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 15392
+2024/04/29 18:50:28 [notice] 15392#14268: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 15392#14268: create thread 5340
+2024/04/29 18:50:28 [notice] 15392#14268: create thread 4104
+2024/04/29 18:50:28 [notice] 15392#14268: create thread 4880
+2024/04/29 18:50:28 [notice] 14456#4396: start worker process 11892
+2024/04/29 18:50:28 [notice] 11892#12584: nginx/1.25.4
+2024/04/29 18:50:28 [notice] 11892#12584: create thread 13364
+2024/04/29 18:50:28 [notice] 11892#12584: create thread 12204
+2024/04/29 18:50:28 [notice] 11892#12584: create thread 15148
+2024/04/29 18:50:28 [notice] 14456#15796: Ctrl-C pressed, exiting
+2024/04/29 18:50:33 [notice] 14456#4396: exiting
+2024/04/29 18:50:33 [notice] 6052#17132: gracefully shutting down
+2024/04/29 18:50:33 [notice] 15984#10760: gracefully shutting down
+2024/04/29 18:50:33 [notice] 8780#1792: gracefully shutting down
+2024/04/29 18:50:33 [notice] 9792#15272: gracefully shutting down
+2024/04/29 18:50:33 [notice] 6052#1832: exiting
+2024/04/29 18:50:33 [notice] 15392#14268: gracefully shutting down
+2024/04/29 18:50:33 [notice] 12684#17000: gracefully shutting down
+2024/04/29 18:50:33 [notice] 11892#12584: gracefully shutting down
+2024/04/29 18:50:33 [notice] 14432#16768: gracefully shutting down
+2024/04/29 18:50:33 [notice] 8780#17332: exiting
+2024/04/29 18:50:33 [notice] 9792#7964: exiting
+2024/04/29 18:50:33 [notice] 15984#3168: exiting
+2024/04/29 18:50:33 [notice] 12684#16748: exiting
+2024/04/29 18:50:33 [notice] 15392#4104: exiting
+2024/04/29 18:50:33 [notice] 11892#12204: exiting
+2024/04/29 18:50:33 [notice] 14432#1504: exiting
+2024/04/29 18:50:33 [notice] 12684#12272: exiting
+2024/04/29 18:50:33 [notice] 12684#17000: exit
+2024/04/29 18:50:33 [notice] 14456#4396: worker process 12684 exited with code 0
+2024/04/29 18:50:33 [notice] 6052#12992: exiting
+2024/04/29 18:50:33 [notice] 6052#17132: exit
+2024/04/29 18:50:33 [notice] 14456#4396: worker process 6052 exited with code 0
+2024/04/29 18:50:33 [notice] 15984#9820: exiting
+2024/04/29 18:50:33 [notice] 15984#10760: exit
+2024/04/29 18:50:33 [notice] 14456#4396: worker process 15984 exited with code 0
+2024/04/29 18:50:34 [notice] 8780#11104: exiting
+2024/04/29 18:50:34 [notice] 14432#15544: exiting
+2024/04/29 18:50:34 [notice] 8780#1792: exit
+2024/04/29 18:50:34 [notice] 14432#16768: exit
+2024/04/29 18:50:34 [notice] 14456#4396: worker process 8780 exited with code 0
+2024/04/29 18:50:34 [notice] 14456#4396: worker process 14432 exited with code 0
+2024/04/29 18:50:34 [notice] 9792#7460: exiting
+2024/04/29 18:50:34 [notice] 9792#15272: exit
+2024/04/29 18:50:34 [notice] 14456#4396: worker process 9792 exited with code 0
+2024/04/29 18:50:34 [notice] 15392#5340: exiting
+2024/04/29 18:50:34 [notice] 15392#14268: exit
+2024/04/29 18:50:34 [notice] 14456#4396: worker process 15392 exited with code 0
+2024/04/29 18:50:34 [notice] 11892#13364: exiting
+2024/04/29 18:50:34 [notice] 11892#12584: exit
+2024/04/29 18:50:34 [notice] 14456#4396: worker process 11892 exited with code 0
+2024/04/29 18:50:34 [notice] 14456#4396: exit
+2024/04/29 18:52:26 [notice] 15528#5212: signal process started
+2024/04/29 18:52:26 [error] 15528#5212: CreateFile() "D:/141_nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/04/29 18:53:09 [notice] 14632#16168: signal process started
+2024/04/29 18:53:09 [error] 14632#16168: CreateFile() "D:/d/141_nginx/logs/nginx.pid" failed (3: The system cannot find the path specified)
+2024/04/29 18:54:16 [notice] 17088#14740: signal process started
+2024/04/29 18:54:16 [error] 17088#14740: CreateFile() "D:/d/141_nginx/logs/nginx.pid" failed (3: The system cannot find the path specified)
+2024/04/29 18:54:47 [notice] 11348#7336: signal process started
+2024/04/29 18:54:47 [error] 11348#7336: invalid PID number "" in "d:/141_nginx/logs/nginx.pid"
+2024/04/29 18:55:28 [notice] 8584#10960: signal process started
+2024/04/29 18:55:28 [error] 8584#10960: invalid PID number "" in "d:/141_nginx/logs/nginx.pid"
+2024/04/29 18:55:39 [notice] 16628#15316: signal process started
+2024/04/29 18:55:39 [error] 16628#15316: invalid PID number "" in "d:/141_nginx/logs/nginx.pid"
+2024/04/29 18:55:47 [notice] 6052#16024: signal process started
+2024/04/29 18:55:47 [error] 6052#16024: invalid PID number "" in "d:/141_nginx/logs/nginx.pid"
+2024/04/29 18:59:07 [notice] 15576#10808: using the "select" event method
+2024/04/29 18:59:07 [notice] 15576#10808: nginx/1.25.4
+2024/04/29 18:59:07 [notice] 15576#10808: start worker processes
+2024/04/29 18:59:07 [notice] 15576#10808: start worker process 4480
+2024/04/29 18:59:07 [notice] 4480#15316: nginx/1.25.4
+2024/04/29 18:59:07 [notice] 4480#15316: create thread 11420
+2024/04/29 18:59:07 [notice] 4480#15316: create thread 12272
+2024/04/29 18:59:07 [notice] 4480#15316: create thread 13776
+2024/04/29 18:59:07 [notice] 15576#10808: start worker process 15860
+2024/04/29 18:59:07 [notice] 15860#1844: nginx/1.25.4
+2024/04/29 18:59:07 [notice] 15860#1844: create thread 3020
+2024/04/29 18:59:07 [notice] 15860#1844: create thread 10760
+2024/04/29 18:59:07 [notice] 15860#1844: create thread 5420
+2024/04/29 18:59:07 [notice] 15576#10808: start worker process 17248
+2024/04/29 18:59:08 [notice] 17248#7556: nginx/1.25.4
+2024/04/29 18:59:08 [notice] 17248#7556: create thread 17048
+2024/04/29 18:59:08 [notice] 17248#7556: create thread 15756
+2024/04/29 18:59:08 [notice] 17248#7556: create thread 8416
+2024/04/29 18:59:08 [notice] 15576#10808: start worker process 1212
+2024/04/29 18:59:08 [notice] 1212#6052: nginx/1.25.4
+2024/04/29 18:59:08 [notice] 1212#6052: create thread 3228
+2024/04/29 18:59:08 [notice] 1212#6052: create thread 16060
+2024/04/29 18:59:08 [notice] 1212#6052: create thread 14748
+2024/04/29 18:59:08 [notice] 15576#10808: start worker process 1504
+2024/04/29 18:59:08 [notice] 1504#17216: nginx/1.25.4
+2024/04/29 18:59:08 [notice] 1504#17216: create thread 5348
+2024/04/29 18:59:08 [notice] 1504#17216: create thread 17300
+2024/04/29 18:59:08 [notice] 1504#17216: create thread 16540
+2024/04/29 18:59:08 [notice] 15576#10808: start worker process 5148
+2024/04/29 18:59:08 [notice] 5148#10516: nginx/1.25.4
+2024/04/29 18:59:08 [notice] 5148#10516: create thread 17120
+2024/04/29 18:59:08 [notice] 5148#10516: create thread 11960
+2024/04/29 18:59:08 [notice] 5148#10516: create thread 6244
+2024/04/29 18:59:08 [notice] 15576#10808: start worker process 6404
+2024/04/29 18:59:08 [notice] 6404#2852: nginx/1.25.4
+2024/04/29 18:59:08 [notice] 6404#2852: create thread 15492
+2024/04/29 18:59:08 [notice] 6404#2852: create thread 17308
+2024/04/29 18:59:08 [notice] 6404#2852: create thread 5412
+2024/04/29 18:59:08 [notice] 15576#10808: start worker process 16648
+2024/04/29 18:59:08 [notice] 16648#15372: nginx/1.25.4
+2024/04/29 18:59:08 [notice] 16648#15372: create thread 16056
+2024/04/29 18:59:08 [notice] 16648#15372: create thread 16716
+2024/04/29 18:59:08 [notice] 16648#15372: create thread 8920
+2024/04/29 18:59:15 [notice] 15000#8652: signal process started
+2024/04/29 18:59:15 [notice] 15576#10808: reconfiguring
+2024/04/29 18:59:15 [notice] 15576#10808: using the "select" event method
+2024/04/29 18:59:15 [notice] 15576#10808: start worker processes
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 16952
+2024/04/29 18:59:15 [notice] 16952#7772: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 16952#7772: create thread 14656
+2024/04/29 18:59:15 [notice] 16952#7772: create thread 16080
+2024/04/29 18:59:15 [notice] 16952#7772: create thread 1016
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 9820
+2024/04/29 18:59:15 [notice] 9820#11080: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 9820#11080: create thread 10672
+2024/04/29 18:59:15 [notice] 9820#11080: create thread 16660
+2024/04/29 18:59:15 [notice] 9820#11080: create thread 16484
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 10560
+2024/04/29 18:59:15 [notice] 10560#15276: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 10560#15276: create thread 15584
+2024/04/29 18:59:15 [notice] 10560#15276: create thread 664
+2024/04/29 18:59:15 [notice] 10560#15276: create thread 7164
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 15504
+2024/04/29 18:59:15 [notice] 15504#16232: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 15504#16232: create thread 14536
+2024/04/29 18:59:15 [notice] 15504#16232: create thread 2324
+2024/04/29 18:59:15 [notice] 15504#16232: create thread 9108
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 15556
+2024/04/29 18:59:15 [notice] 15556#12284: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 15556#12284: create thread 15472
+2024/04/29 18:59:15 [notice] 15556#12284: create thread 15244
+2024/04/29 18:59:15 [notice] 15556#12284: create thread 13484
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 17352
+2024/04/29 18:59:15 [notice] 17352#12880: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 17352#12880: create thread 10100
+2024/04/29 18:59:15 [notice] 17352#12880: create thread 11408
+2024/04/29 18:59:15 [notice] 17352#12880: create thread 4360
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 12152
+2024/04/29 18:59:15 [notice] 12152#15724: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 12152#15724: create thread 9124
+2024/04/29 18:59:15 [notice] 12152#15724: create thread 5572
+2024/04/29 18:59:15 [notice] 12152#15724: create thread 7732
+2024/04/29 18:59:15 [notice] 15576#10808: start worker process 3612
+2024/04/29 18:59:15 [notice] 3612#9332: nginx/1.25.4
+2024/04/29 18:59:15 [notice] 15860#1844: gracefully shutting down
+2024/04/29 18:59:15 [notice] 4480#15316: gracefully shutting down
+2024/04/29 18:59:15 [notice] 1212#6052: gracefully shutting down
+2024/04/29 18:59:15 [notice] 3612#9332: create thread 14984
+2024/04/29 18:59:15 [notice] 1504#17216: gracefully shutting down
+2024/04/29 18:59:15 [notice] 5148#10516: gracefully shutting down
+2024/04/29 18:59:15 [notice] 6404#2852: gracefully shutting down
+2024/04/29 18:59:15 [notice] 15860#10760: exiting
+2024/04/29 18:59:15 [notice] 17248#7556: gracefully shutting down
+2024/04/29 18:59:15 [notice] 16648#15372: gracefully shutting down
+2024/04/29 18:59:15 [notice] 1212#16060: exiting
+2024/04/29 18:59:15 [notice] 4480#12272: exiting
+2024/04/29 18:59:15 [notice] 1504#17300: exiting
+2024/04/29 18:59:15 [notice] 5148#11960: exiting
+2024/04/29 18:59:15 [notice] 6404#17308: exiting
+2024/04/29 18:59:15 [notice] 3612#9332: create thread 17044
+2024/04/29 18:59:15 [notice] 17248#15756: exiting
+2024/04/29 18:59:15 [notice] 16648#16716: exiting
+2024/04/29 18:59:15 [notice] 3612#9332: create thread 8276
+2024/04/29 18:59:15 [notice] 16648#16056: exiting
+2024/04/29 18:59:15 [notice] 16648#15372: exit
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 16648 exited with code 0
+2024/04/29 18:59:15 [notice] 15860#3020: exiting
+2024/04/29 18:59:15 [notice] 4480#11420: exiting
+2024/04/29 18:59:15 [notice] 15860#1844: exit
+2024/04/29 18:59:15 [notice] 4480#15316: exit
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 4480 exited with code 0
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 15860 exited with code 0
+2024/04/29 18:59:15 [notice] 17248#17048: exiting
+2024/04/29 18:59:15 [notice] 17248#7556: exit
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 17248 exited with code 0
+2024/04/29 18:59:15 [notice] 1212#3228: exiting
+2024/04/29 18:59:15 [notice] 1212#6052: exit
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 1212 exited with code 0
+2024/04/29 18:59:15 [notice] 1504#5348: exiting
+2024/04/29 18:59:15 [notice] 1504#17216: exit
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 1504 exited with code 0
+2024/04/29 18:59:15 [notice] 5148#17120: exiting
+2024/04/29 18:59:15 [notice] 5148#10516: exit
+2024/04/29 18:59:15 [notice] 6404#15492: exiting
+2024/04/29 18:59:15 [notice] 6404#2852: exit
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 5148 exited with code 0
+2024/04/29 18:59:15 [notice] 15576#10808: worker process 6404 exited with code 0
+2024/04/29 19:04:42 [notice] 10760#11420: signal process started
+2024/04/29 19:04:42 [notice] 15576#10808: reconfiguring
+2024/04/29 19:04:42 [notice] 15576#10808: using the "select" event method
+2024/04/29 19:04:42 [notice] 15576#10808: start worker processes
+2024/04/29 19:04:42 [notice] 15576#10808: start worker process 10444
+2024/04/29 19:04:42 [notice] 10444#2396: nginx/1.25.4
+2024/04/29 19:04:42 [notice] 10444#2396: create thread 9896
+2024/04/29 19:04:42 [notice] 10444#2396: create thread 3428
+2024/04/29 19:04:42 [notice] 10444#2396: create thread 13548
+2024/04/29 19:04:42 [notice] 15576#10808: start worker process 4388
+2024/04/29 19:04:42 [notice] 4388#3160: nginx/1.25.4
+2024/04/29 19:04:42 [notice] 4388#3160: create thread 5772
+2024/04/29 19:04:42 [notice] 4388#3160: create thread 17260
+2024/04/29 19:04:42 [notice] 4388#3160: create thread 6284
+2024/04/29 19:04:42 [notice] 15576#10808: start worker process 16416
+2024/04/29 19:04:42 [notice] 16416#5212: nginx/1.25.4
+2024/04/29 19:04:42 [notice] 16416#5212: create thread 14372
+2024/04/29 19:04:42 [notice] 16416#5212: create thread 16136
+2024/04/29 19:04:42 [notice] 16416#5212: create thread 3192
+2024/04/29 19:04:42 [notice] 15576#10808: start worker process 11176
+2024/04/29 19:04:43 [notice] 11176#6332: nginx/1.25.4
+2024/04/29 19:04:43 [notice] 11176#6332: create thread 6936
+2024/04/29 19:04:43 [notice] 11176#6332: create thread 10840
+2024/04/29 19:04:43 [notice] 11176#6332: create thread 15912
+2024/04/29 19:04:43 [notice] 15576#10808: start worker process 15084
+2024/04/29 19:04:43 [notice] 15084#15400: nginx/1.25.4
+2024/04/29 19:04:43 [notice] 15084#15400: create thread 16964
+2024/04/29 19:04:43 [notice] 15084#15400: create thread 13556
+2024/04/29 19:04:43 [notice] 15084#15400: create thread 16932
+2024/04/29 19:04:43 [notice] 15576#10808: start worker process 4696
+2024/04/29 19:04:43 [notice] 4696#12564: nginx/1.25.4
+2024/04/29 19:04:43 [notice] 4696#12564: create thread 6404
+2024/04/29 19:04:43 [notice] 4696#12564: create thread 16980
+2024/04/29 19:04:43 [notice] 4696#12564: create thread 2852
+2024/04/29 19:04:43 [notice] 15576#10808: start worker process 11140
+2024/04/29 19:04:43 [notice] 11140#5860: nginx/1.25.4
+2024/04/29 19:04:43 [notice] 11140#5860: create thread 16188
+2024/04/29 19:04:43 [notice] 11140#5860: create thread 10980
+2024/04/29 19:04:43 [notice] 11140#5860: create thread 9164
+2024/04/29 19:04:43 [notice] 15576#10808: start worker process 2960
+2024/04/29 19:04:43 [notice] 2960#2872: nginx/1.25.4
+2024/04/29 19:04:43 [notice] 2960#2872: create thread 17084
+2024/04/29 19:04:43 [notice] 15556#12284: gracefully shutting down
+2024/04/29 19:04:43 [notice] 17352#12880: gracefully shutting down
+2024/04/29 19:04:43 [notice] 12152#15724: gracefully shutting down
+2024/04/29 19:04:43 [notice] 16952#7772: gracefully shutting down
+2024/04/29 19:04:43 [notice] 3612#9332: gracefully shutting down
+2024/04/29 19:04:43 [notice] 10560#15276: gracefully shutting down
+2024/04/29 19:04:43 [notice] 15504#16232: gracefully shutting down
+2024/04/29 19:04:43 [notice] 9820#11080: gracefully shutting down
+2024/04/29 19:04:43 [notice] 2960#2872: create thread 16568
+2024/04/29 19:04:43 [notice] 17352#11408: exiting
+2024/04/29 19:04:43 [notice] 15556#15244: exiting
+2024/04/29 19:04:43 [notice] 12152#5572: exiting
+2024/04/29 19:04:43 [notice] 16952#16080: exiting
+2024/04/29 19:04:43 [notice] 3612#17044: exiting
+2024/04/29 19:04:43 [notice] 15504#2324: exiting
+2024/04/29 19:04:43 [notice] 10560#664: exiting
+2024/04/29 19:04:43 [notice] 9820#16660: exiting
+2024/04/29 19:04:43 [notice] 2960#2872: create thread 9432
+2024/04/29 19:04:43 [notice] 16952#14656: exiting
+2024/04/29 19:04:43 [notice] 9820#10672: exiting
+2024/04/29 19:04:43 [notice] 16952#7772: exit
+2024/04/29 19:04:43 [notice] 9820#11080: exit
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 16952 exited with code 0
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 9820 exited with code 0
+2024/04/29 19:04:43 [notice] 10560#15584: exiting
+2024/04/29 19:04:43 [notice] 15504#14536: exiting
+2024/04/29 19:04:43 [notice] 15504#16232: exit
+2024/04/29 19:04:43 [notice] 10560#15276: exit
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 10560 exited with code 0
+2024/04/29 19:04:43 [notice] 15556#15472: exiting
+2024/04/29 19:04:43 [notice] 12152#9124: exiting
+2024/04/29 19:04:43 [notice] 3612#14984: exiting
+2024/04/29 19:04:43 [notice] 17352#10100: exiting
+2024/04/29 19:04:43 [notice] 15556#12284: exit
+2024/04/29 19:04:43 [notice] 12152#15724: exit
+2024/04/29 19:04:43 [notice] 3612#9332: exit
+2024/04/29 19:04:43 [notice] 17352#12880: exit
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 15504 exited with code 0
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 3612 exited with code 0
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 15556 exited with code 0
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 12152 exited with code 0
+2024/04/29 19:04:43 [notice] 15576#10808: worker process 17352 exited with code 0
+2024/04/29 19:07:44 [notice] 10760#16364: signal process started
+2024/04/29 19:07:44 [notice] 15576#10808: reconfiguring
+2024/04/29 19:07:44 [notice] 15576#10808: using the "select" event method
+2024/04/29 19:07:44 [notice] 15576#10808: start worker processes
+2024/04/29 19:07:44 [notice] 15576#10808: start worker process 16524
+2024/04/29 19:07:44 [notice] 16524#15924: nginx/1.25.4
+2024/04/29 19:07:44 [notice] 16524#15924: create thread 9800
+2024/04/29 19:07:44 [notice] 16524#15924: create thread 1792
+2024/04/29 19:07:44 [notice] 16524#15924: create thread 15564
+2024/04/29 19:07:44 [notice] 15576#10808: start worker process 4392
+2024/04/29 19:07:44 [notice] 4392#7796: nginx/1.25.4
+2024/04/29 19:07:44 [notice] 4392#7796: create thread 10236
+2024/04/29 19:07:44 [notice] 4392#7796: create thread 17008
+2024/04/29 19:07:44 [notice] 4392#7796: create thread 7368
+2024/04/29 19:07:44 [notice] 15576#10808: start worker process 6124
+2024/04/29 19:07:44 [notice] 6124#14712: nginx/1.25.4
+2024/04/29 19:07:44 [notice] 6124#14712: create thread 7748
+2024/04/29 19:07:44 [notice] 6124#14712: create thread 7772
+2024/04/29 19:07:44 [notice] 6124#14712: create thread 16952
+2024/04/29 19:07:44 [notice] 15576#10808: start worker process 11868
+2024/04/29 19:07:44 [notice] 11868#17000: nginx/1.25.4
+2024/04/29 19:07:44 [notice] 11868#17000: create thread 15276
+2024/04/29 19:07:44 [notice] 11868#17000: create thread 10560
+2024/04/29 19:07:44 [notice] 11868#17000: create thread 16768
+2024/04/29 19:07:44 [notice] 15576#10808: start worker process 10792
+2024/04/29 19:07:45 [notice] 10792#15004: nginx/1.25.4
+2024/04/29 19:07:45 [notice] 10792#15004: create thread 7732
+2024/04/29 19:07:45 [notice] 10792#15004: create thread 9108
+2024/04/29 19:07:45 [notice] 10792#15004: create thread 16232
+2024/04/29 19:07:45 [notice] 15576#10808: start worker process 15504
+2024/04/29 19:07:45 [notice] 15504#9332: nginx/1.25.4
+2024/04/29 19:07:45 [notice] 15504#9332: create thread 15740
+2024/04/29 19:07:45 [notice] 15504#9332: create thread 17208
+2024/04/29 19:07:45 [notice] 15504#9332: create thread 16688
+2024/04/29 19:07:45 [notice] 15576#10808: start worker process 7484
+2024/04/29 19:07:45 [notice] 7484#4360: nginx/1.25.4
+2024/04/29 19:07:45 [notice] 7484#4360: create thread 14748
+2024/04/29 19:07:45 [notice] 7484#4360: create thread 2424
+2024/04/29 19:07:45 [notice] 7484#4360: create thread 11580
+2024/04/29 19:07:45 [notice] 15576#10808: start worker process 17364
+2024/04/29 19:07:45 [notice] 17364#4936: nginx/1.25.4
+2024/04/29 19:07:45 [notice] 17364#4936: create thread 12308
+2024/04/29 19:07:45 [notice] 10444#2396: gracefully shutting down
+2024/04/29 19:07:45 [notice] 4388#3160: gracefully shutting down
+2024/04/29 19:07:45 [notice] 16416#5212: gracefully shutting down
+2024/04/29 19:07:45 [notice] 15084#15400: gracefully shutting down
+2024/04/29 19:07:45 [notice] 11176#6332: gracefully shutting down
+2024/04/29 19:07:45 [notice] 4696#12564: gracefully shutting down
+2024/04/29 19:07:45 [notice] 11140#5860: gracefully shutting down
+2024/04/29 19:07:45 [notice] 17364#4936: create thread 2192
+2024/04/29 19:07:45 [notice] 2960#2872: gracefully shutting down
+2024/04/29 19:07:45 [notice] 10444#3428: exiting
+2024/04/29 19:07:45 [notice] 4388#17260: exiting
+2024/04/29 19:07:45 [notice] 16416#16136: exiting
+2024/04/29 19:07:45 [notice] 15084#13556: exiting
+2024/04/29 19:07:45 [notice] 11176#10840: exiting
+2024/04/29 19:07:45 [notice] 4696#16980: exiting
+2024/04/29 19:07:45 [notice] 11140#10980: exiting
+2024/04/29 19:07:45 [notice] 2960#16568: exiting
+2024/04/29 19:07:45 [notice] 17364#4936: create thread 16060
+2024/04/29 19:07:45 [notice] 10444#9896: exiting
+2024/04/29 19:07:45 [notice] 10444#2396: exit
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 10444 exited with code 0
+2024/04/29 19:07:45 [notice] 16416#14372: exiting
+2024/04/29 19:07:45 [notice] 11176#6936: exiting
+2024/04/29 19:07:45 [notice] 4388#5772: exiting
+2024/04/29 19:07:45 [notice] 16416#5212: exit
+2024/04/29 19:07:45 [notice] 11176#6332: exit
+2024/04/29 19:07:45 [notice] 4388#3160: exit
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 11176 exited with code 0
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 4388 exited with code 0
+2024/04/29 19:07:45 [notice] 15084#16964: exiting
+2024/04/29 19:07:45 [notice] 15084#15400: exit
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 16416 exited with code 0
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 15084 exited with code 0
+2024/04/29 19:07:45 [notice] 4696#6404: exiting
+2024/04/29 19:07:45 [notice] 4696#12564: exit
+2024/04/29 19:07:45 [notice] 2960#17084: exiting
+2024/04/29 19:07:45 [notice] 11140#16188: exiting
+2024/04/29 19:07:45 [notice] 2960#2872: exit
+2024/04/29 19:07:45 [notice] 11140#5860: exit
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 11140 exited with code 0
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 4696 exited with code 0
+2024/04/29 19:07:45 [notice] 15576#10808: worker process 2960 exited with code 0
+2024/04/29 20:15:49 [notice] 12584#14676: using the "select" event method
+2024/04/29 20:15:49 [notice] 12584#14676: nginx/1.25.4
+2024/04/29 20:15:49 [notice] 12584#14676: start worker processes
+2024/04/29 20:15:49 [notice] 12584#14676: start worker process 15416
+2024/04/29 20:15:49 [notice] 15416#2312: nginx/1.25.4
+2024/04/29 20:15:49 [notice] 15416#2312: create thread 16168
+2024/04/29 20:15:49 [notice] 15416#2312: create thread 9492
+2024/04/29 20:15:49 [notice] 15416#2312: create thread 3020
+2024/04/29 20:15:49 [notice] 12584#14676: start worker process 5812
+2024/04/29 20:15:49 [notice] 5812#16796: nginx/1.25.4
+2024/04/29 20:15:49 [notice] 5812#16796: create thread 8776
+2024/04/29 20:15:49 [notice] 5812#16796: create thread 16744
+2024/04/29 20:15:49 [notice] 5812#16796: create thread 17100
+2024/04/29 20:15:49 [notice] 12584#14676: start worker process 12948
+2024/04/29 20:15:49 [notice] 12948#6284: nginx/1.25.4
+2024/04/29 20:15:49 [notice] 12948#6284: create thread 10336
+2024/04/29 20:15:49 [notice] 12948#6284: create thread 8744
+2024/04/29 20:15:49 [notice] 12948#6284: create thread 4388
+2024/04/29 20:15:49 [notice] 12584#14676: start worker process 11640
+2024/04/29 20:15:49 [notice] 11640#9560: nginx/1.25.4
+2024/04/29 20:15:49 [notice] 11640#9560: create thread 9744
+2024/04/29 20:15:49 [notice] 11640#9560: create thread 14904
+2024/04/29 20:15:49 [notice] 11640#9560: create thread 11104
+2024/04/29 20:15:49 [notice] 12584#14676: start worker process 5632
+2024/04/29 20:15:50 [notice] 5632#2384: nginx/1.25.4
+2024/04/29 20:15:50 [notice] 5632#2384: create thread 11344
+2024/04/29 20:15:50 [notice] 5632#2384: create thread 13796
+2024/04/29 20:15:50 [notice] 5632#2384: create thread 14824
+2024/04/29 20:15:50 [notice] 12584#14676: start worker process 8328
+2024/04/29 20:15:50 [notice] 8328#6936: nginx/1.25.4
+2024/04/29 20:15:50 [notice] 8328#6936: create thread 9036
+2024/04/29 20:15:50 [notice] 8328#6936: create thread 7744
+2024/04/29 20:15:50 [notice] 8328#6936: create thread 15780
+2024/04/29 20:15:50 [notice] 12584#14676: start worker process 15120
+2024/04/29 20:15:50 [notice] 15120#16632: nginx/1.25.4
+2024/04/29 20:15:50 [notice] 15120#16632: create thread 9164
+2024/04/29 20:15:50 [notice] 15120#16632: create thread 4624
+2024/04/29 20:15:50 [notice] 15120#16632: create thread 17160
+2024/04/29 20:15:50 [notice] 12584#14676: start worker process 6072
+2024/04/29 20:15:50 [notice] 6072#15500: nginx/1.25.4
+2024/04/29 20:15:50 [notice] 6072#15500: create thread 1120
+2024/04/29 20:15:50 [notice] 6072#15500: create thread 4104
+2024/04/29 20:15:50 [notice] 6072#15500: create thread 9752
+2024/04/29 20:28:31 [notice] 10440#13568: signal process started
+2024/04/29 20:28:31 [notice] 12584#14676: reconfiguring
+2024/04/29 20:28:31 [notice] 12584#14676: using the "select" event method
+2024/04/29 20:28:31 [notice] 12584#14676: start worker processes
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 2724
+2024/04/29 20:28:31 [notice] 2724#148: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 2724#148: create thread 11144
+2024/04/29 20:28:31 [notice] 2724#148: create thread 11756
+2024/04/29 20:28:31 [notice] 2724#148: create thread 16624
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 14580
+2024/04/29 20:28:31 [notice] 14580#10708: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 14580#10708: create thread 6164
+2024/04/29 20:28:31 [notice] 14580#10708: create thread 10268
+2024/04/29 20:28:31 [notice] 14580#10708: create thread 17216
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 16216
+2024/04/29 20:28:31 [notice] 16216#5668: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 16216#5668: create thread 7336
+2024/04/29 20:28:31 [notice] 16216#5668: create thread 4848
+2024/04/29 20:28:31 [notice] 16216#5668: create thread 11748
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 6316
+2024/04/29 20:28:31 [notice] 6316#10616: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 6316#10616: create thread 10540
+2024/04/29 20:28:31 [notice] 6316#10616: create thread 9288
+2024/04/29 20:28:31 [notice] 6316#10616: create thread 17220
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 14260
+2024/04/29 20:28:31 [notice] 14260#16024: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 14260#16024: create thread 16932
+2024/04/29 20:28:31 [notice] 14260#16024: create thread 11512
+2024/04/29 20:28:31 [notice] 14260#16024: create thread 17352
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 11708
+2024/04/29 20:28:31 [notice] 11708#1308: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 11708#1308: create thread 14456
+2024/04/29 20:28:31 [notice] 11708#1308: create thread 14956
+2024/04/29 20:28:31 [notice] 11708#1308: create thread 3016
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 4432
+2024/04/29 20:28:31 [notice] 4432#10824: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 4432#10824: create thread 16556
+2024/04/29 20:28:31 [notice] 4432#10824: create thread 5240
+2024/04/29 20:28:31 [notice] 4432#10824: create thread 7360
+2024/04/29 20:28:31 [notice] 12584#14676: start worker process 14436
+2024/04/29 20:28:31 [notice] 14436#13220: nginx/1.25.4
+2024/04/29 20:28:31 [notice] 14436#13220: create thread 2868
+2024/04/29 20:28:31 [notice] 14436#13220: create thread 9356
+2024/04/29 20:28:31 [notice] 15120#16632: gracefully shutting down
+2024/04/29 20:28:31 [notice] 6072#15500: gracefully shutting down
+2024/04/29 20:28:31 [notice] 8328#6936: gracefully shutting down
+2024/04/29 20:28:31 [notice] 14436#13220: create thread 16920
+2024/04/29 20:28:31 [notice] 5632#2384: gracefully shutting down
+2024/04/29 20:28:31 [notice] 6072#4104: exiting
+2024/04/29 20:28:31 [notice] 15120#4624: exiting
+2024/04/29 20:28:31 [notice] 8328#7744: exiting
+2024/04/29 20:28:31 [notice] 5632#13796: exiting
+2024/04/29 20:28:31 [notice] 15416#2312: gracefully shutting down
+2024/04/29 20:28:31 [notice] 5812#16796: gracefully shutting down
+2024/04/29 20:28:31 [notice] 12948#6284: gracefully shutting down
+2024/04/29 20:28:31 [notice] 11640#9560: gracefully shutting down
+2024/04/29 20:28:31 [notice] 12948#8744: exiting
+2024/04/29 20:28:31 [notice] 5812#16744: exiting
+2024/04/29 20:28:31 [notice] 15416#9492: exiting
+2024/04/29 20:28:31 [notice] 11640#14904: exiting
+2024/04/29 20:28:31 [notice] 5632#11344: exiting
+2024/04/29 20:28:31 [notice] 12948#10336: exiting
+2024/04/29 20:28:31 [notice] 12948#6284: exit
+2024/04/29 20:28:31 [notice] 5632#2384: exit
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 12948 exited with code 0
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 5632 exited with code 0
+2024/04/29 20:28:31 [notice] 15416#16168: exiting
+2024/04/29 20:28:31 [notice] 11640#9744: exiting
+2024/04/29 20:28:31 [notice] 5812#8776: exiting
+2024/04/29 20:28:31 [notice] 5812#16796: exit
+2024/04/29 20:28:31 [notice] 15416#2312: exit
+2024/04/29 20:28:31 [notice] 11640#9560: exit
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 5812 exited with code 0
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 11640 exited with code 0
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 15416 exited with code 0
+2024/04/29 20:28:31 [notice] 8328#9036: exiting
+2024/04/29 20:28:31 [notice] 15120#9164: exiting
+2024/04/29 20:28:31 [notice] 15120#16632: exit
+2024/04/29 20:28:31 [notice] 8328#6936: exit
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 8328 exited with code 0
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 15120 exited with code 0
+2024/04/29 20:28:31 [notice] 6072#1120: exiting
+2024/04/29 20:28:31 [notice] 6072#15500: exit
+2024/04/29 20:28:31 [notice] 12584#14676: worker process 6072 exited with code 0
+2024/04/29 20:29:40 [notice] 9720#17336: signal process started
+2024/04/29 20:29:40 [notice] 12584#14676: reconfiguring
+2024/04/29 20:29:40 [notice] 12584#14676: using the "select" event method
+2024/04/29 20:29:40 [notice] 12584#14676: start worker processes
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 14912
+2024/04/29 20:29:40 [notice] 14912#8636: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 14912#8636: create thread 15156
+2024/04/29 20:29:40 [notice] 14912#8636: create thread 15700
+2024/04/29 20:29:40 [notice] 14912#8636: create thread 3112
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 9040
+2024/04/29 20:29:40 [notice] 9040#16552: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 9040#16552: create thread 11292
+2024/04/29 20:29:40 [notice] 9040#16552: create thread 15196
+2024/04/29 20:29:40 [notice] 9040#16552: create thread 17120
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 13208
+2024/04/29 20:29:40 [notice] 13208#9612: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 13208#9612: create thread 4696
+2024/04/29 20:29:40 [notice] 13208#9612: create thread 5696
+2024/04/29 20:29:40 [notice] 13208#9612: create thread 8780
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 15652
+2024/04/29 20:29:40 [notice] 15652#10336: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 15652#10336: create thread 2384
+2024/04/29 20:29:40 [notice] 15652#10336: create thread 5632
+2024/04/29 20:29:40 [notice] 15652#10336: create thread 16744
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 8776
+2024/04/29 20:29:40 [notice] 8776#16168: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 8776#16168: create thread 10200
+2024/04/29 20:29:40 [notice] 8776#16168: create thread 15632
+2024/04/29 20:29:40 [notice] 8776#16168: create thread 11360
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 3860
+2024/04/29 20:29:40 [notice] 3860#14476: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 3860#14476: create thread 9884
+2024/04/29 20:29:40 [notice] 3860#14476: create thread 15640
+2024/04/29 20:29:40 [notice] 3860#14476: create thread 15780
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 17160
+2024/04/29 20:29:40 [notice] 17160#16632: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 17160#16632: create thread 14960
+2024/04/29 20:29:40 [notice] 17160#16632: create thread 16536
+2024/04/29 20:29:40 [notice] 17160#16632: create thread 14900
+2024/04/29 20:29:40 [notice] 12584#14676: start worker process 592
+2024/04/29 20:29:40 [notice] 592#6584: nginx/1.25.4
+2024/04/29 20:29:40 [notice] 592#6584: create thread 14708
+2024/04/29 20:29:40 [notice] 2724#148: gracefully shutting down
+2024/04/29 20:29:40 [notice] 16216#5668: gracefully shutting down
+2024/04/29 20:29:40 [notice] 14580#10708: gracefully shutting down
+2024/04/29 20:29:40 [notice] 6316#10616: gracefully shutting down
+2024/04/29 20:29:40 [notice] 14260#16024: gracefully shutting down
+2024/04/29 20:29:40 [notice] 11708#1308: gracefully shutting down
+2024/04/29 20:29:40 [notice] 14436#13220: gracefully shutting down
+2024/04/29 20:29:40 [notice] 4432#10824: gracefully shutting down
+2024/04/29 20:29:40 [notice] 2724#11756: exiting
+2024/04/29 20:29:40 [notice] 592#6584: create thread 15768
+2024/04/29 20:29:40 [notice] 16216#4848: exiting
+2024/04/29 20:29:40 [notice] 14580#10268: exiting
+2024/04/29 20:29:40 [notice] 6316#9288: exiting
+2024/04/29 20:29:40 [notice] 14260#11512: exiting
+2024/04/29 20:29:40 [notice] 11708#14956: exiting
+2024/04/29 20:29:40 [notice] 14436#9356: exiting
+2024/04/29 20:29:40 [notice] 4432#5240: exiting
+2024/04/29 20:29:40 [notice] 592#6584: create thread 17264
+2024/04/29 20:29:40 [notice] 2724#11144: exiting
+2024/04/29 20:29:40 [notice] 2724#148: exit
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 2724 exited with code 0
+2024/04/29 20:29:40 [notice] 14580#6164: exiting
+2024/04/29 20:29:40 [notice] 14580#10708: exit
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 14580 exited with code 0
+2024/04/29 20:29:40 [notice] 6316#10540: exiting
+2024/04/29 20:29:40 [notice] 16216#7336: exiting
+2024/04/29 20:29:40 [notice] 6316#10616: exit
+2024/04/29 20:29:40 [notice] 16216#5668: exit
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 16216 exited with code 0
+2024/04/29 20:29:40 [notice] 14260#16932: exiting
+2024/04/29 20:29:40 [notice] 14260#16024: exit
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 6316 exited with code 0
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 14260 exited with code 0
+2024/04/29 20:29:40 [notice] 11708#14456: exiting
+2024/04/29 20:29:40 [notice] 11708#1308: exit
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 11708 exited with code 0
+2024/04/29 20:29:40 [notice] 4432#16556: exiting
+2024/04/29 20:29:40 [notice] 4432#10824: exit
+2024/04/29 20:29:40 [notice] 14436#2868: exiting
+2024/04/29 20:29:40 [notice] 14436#13220: exit
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 4432 exited with code 0
+2024/04/29 20:29:40 [notice] 12584#14676: worker process 14436 exited with code 0
+2024/04/29 20:33:18 [notice] 16576#2648: signal process started
+2024/04/29 20:33:18 [notice] 12584#14676: exiting
+2024/04/29 20:33:18 [notice] 13208#9612: gracefully shutting down
+2024/04/29 20:33:18 [notice] 15652#10336: gracefully shutting down
+2024/04/29 20:33:18 [notice] 8776#16168: gracefully shutting down
+2024/04/29 20:33:18 [notice] 17160#16632: gracefully shutting down
+2024/04/29 20:33:18 [notice] 592#6584: gracefully shutting down
+2024/04/29 20:33:18 [notice] 3860#14476: gracefully shutting down
+2024/04/29 20:33:18 [notice] 13208#5696: exiting
+2024/04/29 20:33:18 [notice] 14912#8636: gracefully shutting down
+2024/04/29 20:33:18 [notice] 9040#16552: gracefully shutting down
+2024/04/29 20:33:18 [notice] 15652#5632: exiting
+2024/04/29 20:33:18 [notice] 8776#15632: exiting
+2024/04/29 20:33:18 [notice] 17160#16536: exiting
+2024/04/29 20:33:18 [notice] 592#15768: exiting
+2024/04/29 20:33:18 [notice] 3860#15640: exiting
+2024/04/29 20:33:18 [notice] 14912#15700: exiting
+2024/04/29 20:33:18 [notice] 9040#15196: exiting
+2024/04/29 20:33:18 [notice] 9040#11292: exiting
+2024/04/29 20:33:18 [notice] 9040#16552: exit
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 9040 exited with code 0
+2024/04/29 20:33:18 [notice] 16736#17244: using the "select" event method
+2024/04/29 20:33:18 [notice] 16736#17244: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 16736#17244: start worker processes
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 4588
+2024/04/29 20:33:18 [notice] 3860#9884: exiting
+2024/04/29 20:33:18 [notice] 13208#4696: exiting
+2024/04/29 20:33:18 [notice] 15652#2384: exiting
+2024/04/29 20:33:18 [notice] 8776#10200: exiting
+2024/04/29 20:33:18 [notice] 3860#14476: exit
+2024/04/29 20:33:18 [notice] 15652#10336: exit
+2024/04/29 20:33:18 [notice] 8776#16168: exit
+2024/04/29 20:33:18 [notice] 13208#9612: exit
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 8776 exited with code 0
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 13208 exited with code 0
+2024/04/29 20:33:18 [notice] 17160#14960: exiting
+2024/04/29 20:33:18 [notice] 592#14708: exiting
+2024/04/29 20:33:18 [notice] 17160#16632: exit
+2024/04/29 20:33:18 [notice] 592#6584: exit
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 3860 exited with code 0
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 15652 exited with code 0
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 17160 exited with code 0
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 592 exited with code 0
+2024/04/29 20:33:18 [notice] 4588#13548: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 4588#13548: create thread 13416
+2024/04/29 20:33:18 [notice] 4588#13548: create thread 12272
+2024/04/29 20:33:18 [notice] 4588#13548: create thread 5644
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 11328
+2024/04/29 20:33:18 [notice] 11328#7580: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 11328#7580: create thread 2920
+2024/04/29 20:33:18 [notice] 11328#7580: create thread 16492
+2024/04/29 20:33:18 [notice] 11328#7580: create thread 16812
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 12280
+2024/04/29 20:33:18 [notice] 12280#16136: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 12280#16136: create thread 15492
+2024/04/29 20:33:18 [notice] 12280#16136: create thread 11704
+2024/04/29 20:33:18 [notice] 12280#16136: create thread 7072
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 2016
+2024/04/29 20:33:18 [notice] 2016#5928: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 2016#5928: create thread 1180
+2024/04/29 20:33:18 [notice] 2016#5928: create thread 11392
+2024/04/29 20:33:18 [notice] 2016#5928: create thread 640
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 11764
+2024/04/29 20:33:18 [notice] 11764#15328: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 11764#15328: create thread 3284
+2024/04/29 20:33:18 [notice] 11764#15328: create thread 4240
+2024/04/29 20:33:18 [notice] 11764#15328: create thread 7364
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 11888
+2024/04/29 20:33:18 [notice] 11888#1480: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 11888#1480: create thread 5608
+2024/04/29 20:33:18 [notice] 11888#1480: create thread 11628
+2024/04/29 20:33:18 [notice] 11888#1480: create thread 14464
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 15952
+2024/04/29 20:33:18 [notice] 15952#8408: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 15952#8408: create thread 14440
+2024/04/29 20:33:18 [notice] 15952#8408: create thread 7360
+2024/04/29 20:33:18 [notice] 15952#8408: create thread 9792
+2024/04/29 20:33:18 [notice] 16736#17244: start worker process 7504
+2024/04/29 20:33:18 [notice] 14912#15156: exiting
+2024/04/29 20:33:18 [notice] 14912#8636: exit
+2024/04/29 20:33:18 [notice] 12584#14676: worker process 14912 exited with code 0
+2024/04/29 20:33:18 [notice] 12584#14676: exit
+2024/04/29 20:33:18 [notice] 7504#3104: nginx/1.25.4
+2024/04/29 20:33:18 [notice] 7504#3104: create thread 10816
+2024/04/29 20:33:18 [notice] 7504#3104: create thread 11960
+2024/04/29 20:33:18 [notice] 7504#3104: create thread 15708
+2024/04/29 20:53:18 [warn] 19184#2160: "user" is not supported, ignored in D:\141_nginx/conf/nginx.conf:13
+2024/04/29 20:53:18 [emerg] 19184#2160: CreateFile() "D:/etc/nginx/mime.types" failed (3: The system cannot find the path specified) in D:\141_nginx/conf/nginx.conf:27
+2024/04/29 20:55:39 [emerg] 16564#18560: CreateFile() "D:/etc/nginx/mime.types" failed (3: The system cannot find the path specified) in D:\141_nginx/conf/nginx.conf:16
+2024/04/29 20:56:14 [emerg] 18412#19420: CreateFile() "D:/d/141_nginx/mime.types" failed (3: The system cannot find the path specified) in D:\141_nginx/conf/nginx.conf:16
+2024/04/29 20:56:52 [emerg] 19056#19184: CreateFile() "D:/d/141_nginx/conf/mime.types" failed (3: The system cannot find the path specified) in D:\141_nginx/conf/nginx.conf:16
+2024/04/29 20:57:07 [emerg] 16416#14476: CreateFile() "D:/var/run/nginx.pid" failed (3: The system cannot find the path specified)
+2024/04/29 20:57:46 [emerg] 19100#18560: CreateFile() "D:/var/log/nginx/error.log" failed (3: The system cannot find the path specified)
+2024/04/29 20:58:15 [emerg] 16804#5356: CreateFile() "D:/var/log/nginx/access.log" failed (3: The system cannot find the path specified)
+2024/04/29 20:59:10 [notice] 6928#18784: signal process started
+2024/04/29 20:59:10 [error] 6928#18784: invalid PID number "" in "d:/141_nginx/logs/nginx.pid"
+2024/04/29 20:59:20 [notice] 5312#3012: using the "select" event method
+2024/04/29 20:59:20 [notice] 5312#3012: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 5312#3012: start worker processes
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 18636
+2024/04/29 20:59:20 [notice] 18636#18672: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 18636#18672: create thread 18664
+2024/04/29 20:59:20 [notice] 18636#18672: create thread 19016
+2024/04/29 20:59:20 [notice] 18636#18672: create thread 18896
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 15656
+2024/04/29 20:59:20 [notice] 15656#16516: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 15656#16516: create thread 4496
+2024/04/29 20:59:20 [notice] 15656#16516: create thread 13396
+2024/04/29 20:59:20 [notice] 15656#16516: create thread 11256
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 15552
+2024/04/29 20:59:20 [notice] 15552#18476: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 15552#18476: create thread 14548
+2024/04/29 20:59:20 [notice] 15552#18476: create thread 2112
+2024/04/29 20:59:20 [notice] 15552#18476: create thread 5332
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 14248
+2024/04/29 20:59:20 [notice] 14248#3864: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 14248#3864: create thread 9148
+2024/04/29 20:59:20 [notice] 14248#3864: create thread 17640
+2024/04/29 20:59:20 [notice] 14248#3864: create thread 17824
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 18516
+2024/04/29 20:59:20 [notice] 18516#17820: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 18516#17820: create thread 10928
+2024/04/29 20:59:20 [notice] 18516#17820: create thread 4928
+2024/04/29 20:59:20 [notice] 18516#17820: create thread 14556
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 18648
+2024/04/29 20:59:20 [notice] 18648#11120: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 18648#11120: create thread 19280
+2024/04/29 20:59:20 [notice] 18648#11120: create thread 940
+2024/04/29 20:59:20 [notice] 18648#11120: create thread 19336
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 17732
+2024/04/29 20:59:20 [notice] 17732#19192: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 17732#19192: create thread 18028
+2024/04/29 20:59:20 [notice] 17732#19192: create thread 620
+2024/04/29 20:59:20 [notice] 17732#19192: create thread 1844
+2024/04/29 20:59:20 [notice] 5312#3012: start worker process 8968
+2024/04/29 20:59:20 [notice] 8968#1224: nginx/1.25.4
+2024/04/29 20:59:20 [notice] 8968#1224: create thread 5776
+2024/04/29 20:59:20 [notice] 8968#1224: create thread 2232
+2024/04/29 20:59:20 [notice] 8968#1224: create thread 15520
+2024/04/29 20:59:24 [notice] 17652#18340: signal process started
+2024/04/29 20:59:24 [notice] 5312#3012: reconfiguring
+2024/04/29 20:59:24 [notice] 5312#3012: using the "select" event method
+2024/04/29 20:59:24 [notice] 5312#3012: start worker processes
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 18572
+2024/04/29 20:59:24 [notice] 18572#9388: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 18572#9388: create thread 11068
+2024/04/29 20:59:24 [notice] 18572#9388: create thread 19032
+2024/04/29 20:59:24 [notice] 18572#9388: create thread 8160
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 8008
+2024/04/29 20:59:24 [notice] 8008#10456: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 8008#10456: create thread 17648
+2024/04/29 20:59:24 [notice] 8008#10456: create thread 7824
+2024/04/29 20:59:24 [notice] 8008#10456: create thread 13148
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 10300
+2024/04/29 20:59:24 [notice] 10300#17688: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 10300#17688: create thread 13952
+2024/04/29 20:59:24 [notice] 10300#17688: create thread 3048
+2024/04/29 20:59:24 [notice] 10300#17688: create thread 17608
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 19272
+2024/04/29 20:59:24 [notice] 19272#16340: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 19272#16340: create thread 18856
+2024/04/29 20:59:24 [notice] 19272#16340: create thread 8072
+2024/04/29 20:59:24 [notice] 19272#16340: create thread 4600
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 18288
+2024/04/29 20:59:24 [notice] 18288#19076: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 18288#19076: create thread 15716
+2024/04/29 20:59:24 [notice] 18288#19076: create thread 18632
+2024/04/29 20:59:24 [notice] 18288#19076: create thread 17660
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 15636
+2024/04/29 20:59:24 [notice] 15636#7276: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 15636#7276: create thread 4404
+2024/04/29 20:59:24 [notice] 15636#7276: create thread 15904
+2024/04/29 20:59:24 [notice] 15636#7276: create thread 18628
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 6812
+2024/04/29 20:59:24 [notice] 6812#17560: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 6812#17560: create thread 16168
+2024/04/29 20:59:24 [notice] 6812#17560: create thread 18072
+2024/04/29 20:59:24 [notice] 6812#17560: create thread 14040
+2024/04/29 20:59:24 [notice] 5312#3012: start worker process 13000
+2024/04/29 20:59:24 [notice] 13000#15568: nginx/1.25.4
+2024/04/29 20:59:24 [notice] 18636#18672: gracefully shutting down
+2024/04/29 20:59:24 [notice] 15656#16516: gracefully shutting down
+2024/04/29 20:59:24 [notice] 14248#3864: gracefully shutting down
+2024/04/29 20:59:24 [notice] 15552#18476: gracefully shutting down
+2024/04/29 20:59:24 [notice] 18516#17820: gracefully shutting down
+2024/04/29 20:59:24 [notice] 18636#19016: exiting
+2024/04/29 20:59:24 [notice] 18648#11120: gracefully shutting down
+2024/04/29 20:59:24 [notice] 15656#13396: exiting
+2024/04/29 20:59:24 [notice] 13000#15568: create thread 10252
+2024/04/29 20:59:24 [notice] 17732#19192: gracefully shutting down
+2024/04/29 20:59:24 [notice] 14248#17640: exiting
+2024/04/29 20:59:24 [notice] 8968#1224: gracefully shutting down
+2024/04/29 20:59:24 [notice] 15552#2112: exiting
+2024/04/29 20:59:24 [notice] 18516#4928: exiting
+2024/04/29 20:59:24 [notice] 18648#940: exiting
+2024/04/29 20:59:24 [notice] 17732#620: exiting
+2024/04/29 20:59:24 [notice] 8968#2232: exiting
+2024/04/29 20:59:24 [notice] 13000#15568: create thread 10016
+2024/04/29 20:59:24 [notice] 13000#15568: create thread 18508
+2024/04/29 20:59:24 [notice] 18636#18664: exiting
+2024/04/29 20:59:24 [notice] 18636#18672: exit
+2024/04/29 20:59:24 [notice] 5312#3012: worker process 18636 exited with code 0
+2024/04/29 20:59:24 [notice] 15656#4496: exiting
+2024/04/29 20:59:24 [notice] 15656#16516: exit
+2024/04/29 20:59:24 [notice] 5312#3012: worker process 15656 exited with code 0
+2024/04/29 20:59:24 [notice] 15552#14548: exiting
+2024/04/29 20:59:24 [notice] 15552#18476: exit
+2024/04/29 20:59:24 [notice] 5312#3012: worker process 15552 exited with code 0
+2024/04/29 20:59:24 [notice] 14248#9148: exiting
+2024/04/29 20:59:24 [notice] 14248#3864: exit
+2024/04/29 20:59:24 [notice] 5312#3012: worker process 14248 exited with code 0
+2024/04/29 20:59:24 [notice] 18516#10928: exiting
+2024/04/29 20:59:24 [notice] 18516#17820: exit
+2024/04/29 20:59:24 [notice] 5312#3012: worker process 18516 exited with code 0
+2024/04/29 20:59:25 [notice] 18648#19280: exiting
+2024/04/29 20:59:25 [notice] 18648#11120: exit
+2024/04/29 20:59:25 [notice] 5312#3012: worker process 18648 exited with code 0
+2024/04/29 20:59:25 [notice] 17732#18028: exiting
+2024/04/29 20:59:25 [notice] 17732#19192: exit
+2024/04/29 20:59:25 [notice] 5312#3012: worker process 17732 exited with code 0
+2024/04/29 20:59:25 [notice] 8968#5776: exiting
+2024/04/29 20:59:25 [notice] 8968#1224: exit
+2024/04/29 20:59:25 [notice] 5312#3012: worker process 8968 exited with code 0
+2024/04/29 21:07:59 [emerg] 16420#15656: the unix domain sockets are not supported on this platform in upstream "unix:/var/run/php/php-fpm.sock" in d:/141_nginx/conf/conf.d/server101.conf:9
+2024/04/29 21:08:39 [notice] 19008#18460: signal process started
+2024/04/29 21:08:39 [notice] 5312#3012: reconfiguring
+2024/04/29 21:08:39 [notice] 5312#3012: using the "select" event method
+2024/04/29 21:08:39 [notice] 5312#3012: start worker processes
+2024/04/29 21:08:39 [notice] 5312#3012: start worker process 18176
+2024/04/29 21:08:39 [notice] 18176#19000: nginx/1.25.4
+2024/04/29 21:08:39 [notice] 18176#19000: create thread 14792
+2024/04/29 21:08:39 [notice] 18176#19000: create thread 14304
+2024/04/29 21:08:39 [notice] 18176#19000: create thread 2260
+2024/04/29 21:08:39 [notice] 5312#3012: start worker process 13008
+2024/04/29 21:08:39 [notice] 13008#1444: nginx/1.25.4
+2024/04/29 21:08:39 [notice] 13008#1444: create thread 18276
+2024/04/29 21:08:39 [notice] 13008#1444: create thread 18000
+2024/04/29 21:08:39 [notice] 13008#1444: create thread 15820
+2024/04/29 21:08:39 [notice] 5312#3012: start worker process 15844
+2024/04/29 21:08:40 [notice] 15844#18888: nginx/1.25.4
+2024/04/29 21:08:40 [notice] 15844#18888: create thread 17108
+2024/04/29 21:08:40 [notice] 15844#18888: create thread 1924
+2024/04/29 21:08:40 [notice] 15844#18888: create thread 17276
+2024/04/29 21:08:40 [notice] 5312#3012: start worker process 14736
+2024/04/29 21:08:40 [notice] 14736#15688: nginx/1.25.4
+2024/04/29 21:08:40 [notice] 14736#15688: create thread 6384
+2024/04/29 21:08:40 [notice] 14736#15688: create thread 18484
+2024/04/29 21:08:40 [notice] 14736#15688: create thread 4928
+2024/04/29 21:08:40 [notice] 5312#3012: start worker process 2296
+2024/04/29 21:08:40 [notice] 2296#2452: nginx/1.25.4
+2024/04/29 21:08:40 [notice] 2296#2452: create thread 5948
+2024/04/29 21:08:40 [notice] 2296#2452: create thread 14824
+2024/04/29 21:08:40 [notice] 2296#2452: create thread 9884
+2024/04/29 21:08:40 [notice] 5312#3012: start worker process 19112
+2024/04/29 21:08:40 [notice] 19112#14548: nginx/1.25.4
+2024/04/29 21:08:40 [notice] 19112#14548: create thread 16120
+2024/04/29 21:08:40 [notice] 19112#14548: create thread 14088
+2024/04/29 21:08:40 [notice] 19112#14548: create thread 17380
+2024/04/29 21:08:40 [notice] 5312#3012: start worker process 8956
+2024/04/29 21:08:40 [notice] 8956#16920: nginx/1.25.4
+2024/04/29 21:08:40 [notice] 8956#16920: create thread 15248
+2024/04/29 21:08:40 [notice] 8956#16920: create thread 18368
+2024/04/29 21:08:40 [notice] 8956#16920: create thread 3228
+2024/04/29 21:08:40 [notice] 5312#3012: start worker process 19328
+2024/04/29 21:08:40 [notice] 19328#18500: nginx/1.25.4
+2024/04/29 21:08:40 [notice] 19328#18500: create thread 7632
+2024/04/29 21:08:40 [notice] 15636#7276: gracefully shutting down
+2024/04/29 21:08:40 [notice] 18288#19076: gracefully shutting down
+2024/04/29 21:08:40 [notice] 19272#16340: gracefully shutting down
+2024/04/29 21:08:40 [notice] 15636#15904: exiting
+2024/04/29 21:08:40 [notice] 18288#18632: exiting
+2024/04/29 21:08:40 [notice] 19328#18500: create thread 5296
+2024/04/29 21:08:40 [notice] 18572#9388: gracefully shutting down
+2024/04/29 21:08:40 [notice] 19272#8072: exiting
+2024/04/29 21:08:40 [notice] 6812#17560: gracefully shutting down
+2024/04/29 21:08:40 [notice] 10300#17688: gracefully shutting down
+2024/04/29 21:08:40 [notice] 18572#19032: exiting
+2024/04/29 21:08:40 [notice] 8008#10456: gracefully shutting down
+2024/04/29 21:08:40 [notice] 19328#18500: create thread 18292
+2024/04/29 21:08:40 [notice] 13000#15568: gracefully shutting down
+2024/04/29 21:08:40 [notice] 10300#3048: exiting
+2024/04/29 21:08:40 [notice] 6812#18072: exiting
+2024/04/29 21:08:40 [notice] 8008#7824: exiting
+2024/04/29 21:08:40 [notice] 13000#10016: exiting
+2024/04/29 21:08:40 [notice] 13000#10252: exiting
+2024/04/29 21:08:40 [notice] 13000#15568: exit
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 13000 exited with code 0
+2024/04/29 21:08:40 [notice] 15636#4404: exiting
+2024/04/29 21:08:40 [notice] 18288#15716: exiting
+2024/04/29 21:08:40 [notice] 18572#11068: exiting
+2024/04/29 21:08:40 [notice] 10300#13952: exiting
+2024/04/29 21:08:40 [notice] 8008#17648: exiting
+2024/04/29 21:08:40 [notice] 19272#18856: exiting
+2024/04/29 21:08:40 [notice] 15636#7276: exit
+2024/04/29 21:08:40 [notice] 8008#10456: exit
+2024/04/29 21:08:40 [notice] 18572#9388: exit
+2024/04/29 21:08:40 [notice] 18288#19076: exit
+2024/04/29 21:08:40 [notice] 10300#17688: exit
+2024/04/29 21:08:40 [notice] 19272#16340: exit
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 18572 exited with code 0
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 10300 exited with code 0
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 19272 exited with code 0
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 8008 exited with code 0
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 15636 exited with code 0
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 18288 exited with code 0
+2024/04/29 21:08:40 [notice] 6812#16168: exiting
+2024/04/29 21:08:40 [notice] 6812#17560: exit
+2024/04/29 21:08:40 [notice] 5312#3012: worker process 6812 exited with code 0
+2024/04/29 21:11:05 [notice] 15636#18288: signal process started
+2024/04/29 21:11:05 [notice] 5312#3012: reconfiguring
+2024/04/29 21:11:05 [notice] 5312#3012: using the "select" event method
+2024/04/29 21:11:05 [notice] 5312#3012: start worker processes
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 1120
+2024/04/29 21:11:05 [notice] 1120#3184: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 1120#3184: create thread 5572
+2024/04/29 21:11:05 [notice] 1120#3184: create thread 13836
+2024/04/29 21:11:05 [notice] 1120#3184: create thread 9140
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 16648
+2024/04/29 21:11:05 [notice] 16648#2956: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 16648#2956: create thread 9164
+2024/04/29 21:11:05 [notice] 16648#2956: create thread 3636
+2024/04/29 21:11:05 [notice] 16648#2956: create thread 17476
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 12192
+2024/04/29 21:11:05 [notice] 12192#17800: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 12192#17800: create thread 16424
+2024/04/29 21:11:05 [notice] 12192#17800: create thread 16376
+2024/04/29 21:11:05 [notice] 12192#17800: create thread 10276
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 7596
+2024/04/29 21:11:05 [notice] 7596#16188: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 7596#16188: create thread 15392
+2024/04/29 21:11:05 [notice] 7596#16188: create thread 18988
+2024/04/29 21:11:05 [notice] 7596#16188: create thread 5420
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 19320
+2024/04/29 21:11:05 [notice] 19320#15436: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 19320#15436: create thread 11728
+2024/04/29 21:11:05 [notice] 19320#15436: create thread 9768
+2024/04/29 21:11:05 [notice] 19320#15436: create thread 16388
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 16356
+2024/04/29 21:11:05 [notice] 16356#9540: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 16356#9540: create thread 14328
+2024/04/29 21:11:05 [notice] 16356#9540: create thread 5776
+2024/04/29 21:11:05 [notice] 16356#9540: create thread 17456
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 11316
+2024/04/29 21:11:05 [notice] 11316#8288: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 11316#8288: create thread 15936
+2024/04/29 21:11:05 [notice] 11316#8288: create thread 19144
+2024/04/29 21:11:05 [notice] 11316#8288: create thread 17148
+2024/04/29 21:11:05 [notice] 5312#3012: start worker process 6340
+2024/04/29 21:11:05 [notice] 6340#18844: nginx/1.25.4
+2024/04/29 21:11:05 [notice] 18176#19000: gracefully shutting down
+2024/04/29 21:11:05 [notice] 13008#1444: gracefully shutting down
+2024/04/29 21:11:05 [notice] 6340#18844: create thread 19248
+2024/04/29 21:11:05 [notice] 15844#18888: gracefully shutting down
+2024/04/29 21:11:05 [notice] 2296#2452: gracefully shutting down
+2024/04/29 21:11:05 [notice] 13008#18000: exiting
+2024/04/29 21:11:05 [notice] 18176#14304: exiting
+2024/04/29 21:11:05 [notice] 19112#14548: gracefully shutting down
+2024/04/29 21:11:05 [notice] 8956#16920: gracefully shutting down
+2024/04/29 21:11:05 [notice] 14736#15688: gracefully shutting down
+2024/04/29 21:11:05 [notice] 19328#18500: gracefully shutting down
+2024/04/29 21:11:05 [notice] 15844#1924: exiting
+2024/04/29 21:11:05 [notice] 2296#14824: exiting
+2024/04/29 21:11:05 [notice] 19112#14088: exiting
+2024/04/29 21:11:05 [notice] 6340#18844: create thread 11256
+2024/04/29 21:11:05 [notice] 8956#18368: exiting
+2024/04/29 21:11:05 [notice] 19328#5296: exiting
+2024/04/29 21:11:05 [notice] 14736#18484: exiting
+2024/04/29 21:11:05 [notice] 6340#18844: create thread 15712
+2024/04/29 21:11:05 [notice] 19328#7632: exiting
+2024/04/29 21:11:05 [notice] 19328#18500: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 19328 exited with code 0
+2024/04/29 21:11:05 [notice] 18176#14792: exiting
+2024/04/29 21:11:05 [notice] 18176#19000: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 18176 exited with code 0
+2024/04/29 21:11:05 [notice] 13008#18276: exiting
+2024/04/29 21:11:05 [notice] 13008#1444: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 13008 exited with code 0
+2024/04/29 21:11:05 [notice] 15844#17108: exiting
+2024/04/29 21:11:05 [notice] 15844#18888: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 15844 exited with code 0
+2024/04/29 21:11:05 [notice] 14736#6384: exiting
+2024/04/29 21:11:05 [notice] 14736#15688: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 14736 exited with code 0
+2024/04/29 21:11:05 [notice] 2296#5948: exiting
+2024/04/29 21:11:05 [notice] 2296#2452: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 2296 exited with code 0
+2024/04/29 21:11:05 [notice] 19112#16120: exiting
+2024/04/29 21:11:05 [notice] 8956#15248: exiting
+2024/04/29 21:11:05 [notice] 19112#14548: exit
+2024/04/29 21:11:05 [notice] 8956#16920: exit
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 19112 exited with code 0
+2024/04/29 21:11:05 [notice] 5312#3012: worker process 8956 exited with code 0
+2024/04/29 21:23:53 [notice] 11164#15636: signal process started
+2024/04/29 21:23:53 [notice] 5312#3012: reconfiguring
+2024/04/29 21:23:53 [notice] 5312#3012: using the "select" event method
+2024/04/29 21:23:53 [notice] 5312#3012: start worker processes
+2024/04/29 21:23:53 [notice] 5312#3012: start worker process 17228
+2024/04/29 21:23:53 [notice] 17228#14784: nginx/1.25.4
+2024/04/29 21:23:53 [notice] 17228#14784: create thread 11840
+2024/04/29 21:23:53 [notice] 17228#14784: create thread 6584
+2024/04/29 21:23:53 [notice] 17228#14784: create thread 11280
+2024/04/29 21:23:53 [notice] 5312#3012: start worker process 7416
+2024/04/29 21:23:53 [notice] 7416#10944: nginx/1.25.4
+2024/04/29 21:23:53 [notice] 7416#10944: create thread 8152
+2024/04/29 21:23:53 [notice] 7416#10944: create thread 16328
+2024/04/29 21:23:53 [notice] 7416#10944: create thread 18716
+2024/04/29 21:23:53 [notice] 5312#3012: start worker process 244
+2024/04/29 21:23:53 [notice] 244#6032: nginx/1.25.4
+2024/04/29 21:23:53 [notice] 244#6032: create thread 7276
+2024/04/29 21:23:53 [notice] 244#6032: create thread 15660
+2024/04/29 21:23:53 [notice] 244#6032: create thread 8744
+2024/04/29 21:23:53 [notice] 5312#3012: start worker process 18584
+2024/04/29 21:23:53 [notice] 18584#17884: nginx/1.25.4
+2024/04/29 21:23:53 [notice] 18584#17884: create thread 17544
+2024/04/29 21:23:53 [notice] 18584#17884: create thread 2716
+2024/04/29 21:23:53 [notice] 18584#17884: create thread 5476
+2024/04/29 21:23:53 [notice] 5312#3012: start worker process 6404
+2024/04/29 21:23:53 [notice] 6404#2352: nginx/1.25.4
+2024/04/29 21:23:53 [notice] 6404#2352: create thread 16704
+2024/04/29 21:23:53 [notice] 6404#2352: create thread 18312
+2024/04/29 21:23:53 [notice] 6404#2352: create thread 2444
+2024/04/29 21:23:54 [notice] 5312#3012: start worker process 17424
+2024/04/29 21:23:54 [notice] 17424#7804: nginx/1.25.4
+2024/04/29 21:23:54 [notice] 17424#7804: create thread 7792
+2024/04/29 21:23:54 [notice] 17424#7804: create thread 16168
+2024/04/29 21:23:54 [notice] 17424#7804: create thread 3256
+2024/04/29 21:23:54 [notice] 5312#3012: start worker process 17572
+2024/04/29 21:23:54 [notice] 17572#19044: nginx/1.25.4
+2024/04/29 21:23:54 [notice] 17572#19044: create thread 1264
+2024/04/29 21:23:54 [notice] 17572#19044: create thread 8340
+2024/04/29 21:23:54 [notice] 17572#19044: create thread 18480
+2024/04/29 21:23:54 [notice] 5312#3012: start worker process 16672
+2024/04/29 21:23:54 [notice] 16672#18636: nginx/1.25.4
+2024/04/29 21:23:54 [notice] 16672#18636: create thread 10652
+2024/04/29 21:23:54 [notice] 11316#8288: gracefully shutting down
+2024/04/29 21:23:54 [notice] 6340#18844: gracefully shutting down
+2024/04/29 21:23:54 [notice] 19320#15436: gracefully shutting down
+2024/04/29 21:23:54 [notice] 16356#9540: gracefully shutting down
+2024/04/29 21:23:54 [notice] 16672#18636: create thread 18372
+2024/04/29 21:23:54 [notice] 7596#16188: gracefully shutting down
+2024/04/29 21:23:54 [notice] 12192#17800: gracefully shutting down
+2024/04/29 21:23:54 [notice] 1120#3184: gracefully shutting down
+2024/04/29 21:23:54 [notice] 16648#2956: gracefully shutting down
+2024/04/29 21:23:54 [notice] 11316#19144: exiting
+2024/04/29 21:23:54 [notice] 6340#11256: exiting
+2024/04/29 21:23:54 [notice] 19320#9768: exiting
+2024/04/29 21:23:54 [notice] 16356#5776: exiting
+2024/04/29 21:23:54 [notice] 7596#18988: exiting
+2024/04/29 21:23:54 [notice] 16672#18636: create thread 17864
+2024/04/29 21:23:54 [notice] 12192#16376: exiting
+2024/04/29 21:23:54 [notice] 1120#13836: exiting
+2024/04/29 21:23:54 [notice] 16648#3636: exiting
+2024/04/29 21:23:54 [notice] 6340#19248: exiting
+2024/04/29 21:23:54 [notice] 16356#14328: exiting
+2024/04/29 21:23:54 [notice] 6340#18844: exit
+2024/04/29 21:23:54 [notice] 16356#9540: exit
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 6340 exited with code 0
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 16356 exited with code 0
+2024/04/29 21:23:54 [notice] 16648#9164: exiting
+2024/04/29 21:23:54 [notice] 16648#2956: exit
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 16648 exited with code 0
+2024/04/29 21:23:54 [notice] 12192#16424: exiting
+2024/04/29 21:23:54 [notice] 12192#17800: exit
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 12192 exited with code 0
+2024/04/29 21:23:54 [notice] 7596#15392: exiting
+2024/04/29 21:23:54 [notice] 7596#16188: exit
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 7596 exited with code 0
+2024/04/29 21:23:54 [notice] 11316#15936: exiting
+2024/04/29 21:23:54 [notice] 1120#5572: exiting
+2024/04/29 21:23:54 [notice] 19320#11728: exiting
+2024/04/29 21:23:54 [notice] 1120#3184: exit
+2024/04/29 21:23:54 [notice] 11316#8288: exit
+2024/04/29 21:23:54 [notice] 19320#15436: exit
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 1120 exited with code 0
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 19320 exited with code 0
+2024/04/29 21:23:54 [notice] 5312#3012: worker process 11316 exited with code 0
+2024/04/29 21:59:09 [notice] 14576#4840: worker process 11980 exited with code 40010004
+2024/04/29 21:59:09 [notice] 14576#4840: start worker process 9832
+2024/04/29 21:59:09 [alert] 14576#4840: worker process 9832 exited with code C0000142
+2024/04/29 21:59:09 [alert] 14576#4840: could not respawn worker
